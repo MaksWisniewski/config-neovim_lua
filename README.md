@@ -29,6 +29,12 @@ Don't forget to source i.e `:so` and `:PackerSync` each time you add a new plugi
 <leader>pf    ---> project files 
 <leader>ps    ---> project search
 
+gcc   ---> comment
+
+## Install lsp's
+
+`:Mason`
+
 ## Packer
 
 :PackerSync
