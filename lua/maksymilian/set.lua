@@ -30,3 +30,6 @@ vim.opt.updatetime = 50
 
  -- vim.opt.colorcolumn = "120"
 
+
+ --zeby sie nie komentowalo w nowej lini
+vim.cmd('set formatoptions-=cro')
